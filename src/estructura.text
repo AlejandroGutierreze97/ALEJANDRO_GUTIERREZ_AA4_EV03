@@ -1,0 +1,24 @@
+src/
+├── components/
+│   ├── Layout/
+│   │   ├── Layout.jsx
+│   │   ├── Header.jsx
+│   │   └── Footer.jsx
+│   ├── Auth/
+│   │   ├── LoginForm.jsx
+│   │   └── RegisterForm.jsx
+│   └── UI/
+│       ├── Button.jsx
+│       └── Input.jsx
+├── context/
+│   ├── AuthContext.js
+│   └── DataContext.js
+├── pages/
+│   ├── Home.jsx
+│   ├── Login.jsx
+│   ├── Register.jsx
+│   └── Dashboard.jsx
+├── router/
+│   └── AppRouter.jsx
+├── App.js
+└── index.js
